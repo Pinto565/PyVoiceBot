@@ -1,0 +1,9 @@
+Python Modules to be installed :
+
+    1.Speech Recognition
+    2.Python Text to speech
+    3.PyAudio
+    4.Wikipedia
+    5.Datetime
+    6.Pyjokes
+    7.Pywhatkit
